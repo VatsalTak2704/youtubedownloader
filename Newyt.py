@@ -1,5 +1,5 @@
 
-from os import pat
+from os import path
 from tkinter import *
 from tkinter import filedialog
 from moviepy import *
